@@ -8,7 +8,7 @@
     display: flex;
     width: 100%;
     height: 100vh;
-    background-image: url(https://static3.depositphotos.com/1000715/204/i/950/depositphotos_2045275-stock-photo-empty-frames-on-wall.jpg);
+    background-image: url(https://static9.depositphotos.com/1559686/1075/i/950/depositphotos_10754504-stock-photo-empty-frames-on-wall.jpg);
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -16,56 +16,28 @@
 
 .container1 {
     position: relative;
-    top: 417px;
-    left: 702px;
-    width: 239px;
-    height: 245px;
-    border: 1px solid red;
-    background-image: url(https://picsum.photos/239/245);
+    width: 397px;
+    height: 263px;
+    top: 116px;
+    left: 58px;
+    background-image: url(https://picsum.photos/396/263);
 }
 
 .container2 {
-    position:relative;
-    width: 455px;
-    height: 202px;
-    top: 224px;
-    left: -146px;
-    border: 1px solid red;
-    background-image: url(https://picsum.photos/455/202);
+    position: relative;
+    width: 399px;
+    height: 263px;
+    top: 116px;
+    left: 181px;
+    background-image: url(https://picsum.photos/397/262);
 }
 
 .container3 {
     position: relative;
-    width: 293px;
-    height: 155px;
-    top: 308px;
-    left: 457px;
-    border: 1px solid red;
-    background-image: url(https://picsum.photos/293/155);
+    width: 399px;
+    height: 263px;
+    top: 116px;
+    left: 286px;
+    background-image: url(https://picsum.photos/398/263);
 }
-.container4 {
-    border-radius: 50%;
-    position: relative;
-    width: 270px;
-    height: 196px;
-    top: 66px;
-    right: 323px;
-    border: 1px solid red;
-    background-image: url(https://picsum.photos/268/196);
-}
-.container5 {
-    position: relative;
-    width: 125px;
-    height: 142px;
-    top: 88px;
-    right:-76px;
-    border: 1px solid red;
-}
-.container6 {
-    position: relative;
-    width: 131px;
-    height: 130px;
-    top: 92px;
-    right:303px;
-    border: 1px solid red;
-}
+
